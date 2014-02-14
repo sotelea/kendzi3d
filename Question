@@ -1,0 +1,11 @@
+Hy,
+
+can you please explain me how to apply the following section:
+
+Download source of kendzi3d. Git link: https://github.com/kendzi/kendzi3d.git
+import from local git repo as java ant project: kendzi.josm.plugin3d
+import all other sub projects from local git repo as java maven projects. If need you can import it as general project and later convert to maven by clicking on project: "Convigure>Convert to Maven"
+
+I don't understand how to do this step.
+
+Thanks!
